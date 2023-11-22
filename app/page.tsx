@@ -12,7 +12,8 @@ export default function Home() {
           </div>
           <p className='text-slate-600 text-[38px]'>Powerful, self-serve product and growth analytics to help you convert, engage, and retain more.</p>
         </div>
-        <div className='mt-16'>
+        <div className='mt-16 '>
+        
         <Searchbar/>
         </div>
       </div>
